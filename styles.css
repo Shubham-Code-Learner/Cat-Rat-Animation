@@ -1,0 +1,22 @@
+.container {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+    background-color: white;
+   }
+   
+   .cat, .rat {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    border-radius: 50%;
+   }
+   
+   .cat {
+    background-color: orange;
+   }
+   
+   .rat {
+    background-color: brown;
+   }
